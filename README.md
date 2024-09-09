@@ -5,7 +5,7 @@ Domain:Web development
 Duration:Aug to Sept 2024
 
 
-WEATHER FORECAST APP OVERVIEW:
+OVERVIEW OF PROJECT:
 
 A Weather Forecast App in HTML is a web application that displays weather information for a specific location using an external weather API (such as OpenWeatherMap or WeatherAPI). This project typically involves a combination of HTML, CSS, and JavaScript, along with data fetched from a weather service API.
 
